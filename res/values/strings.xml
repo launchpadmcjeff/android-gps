@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPS</string>
+    <string name="lat">Lat</string>
+    <string name="lon">Lon</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="bearing">Bearing</string>
+    <string name="speed">Speed</string>
+    <string name="altitude">Altitude</string>
+    <string name="time">Time</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="about">About</string>
+</resources>

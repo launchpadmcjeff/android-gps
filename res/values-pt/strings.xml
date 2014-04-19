@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPG</string>
+    <string name="lat">latitude</string>
+    <string name="lon">longitude</string>
+    <string name="accuracy">precisão</string>
+    <string name="bearing">direção</string>
+    <string name="speed">velocidade</string>
+    <string name="altitude">altitude</string>
+    <string name="time">tempo</string>
+    <string name="start">começo</string>
+    <string name="stop">Pare</string>
+    <string name="about">sobre</string>
+</resources>
